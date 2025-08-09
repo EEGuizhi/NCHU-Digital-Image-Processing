@@ -8,16 +8,16 @@
 - Title：
     "<i>Progressive color transfer for images of arbitrary dynamic range</i>"
 - Ref：<br>
-    ![](term_project/paper.jpg)
+    ![](paper.png)
 
 
 ## Color Transfer Example
-- Source： ![](term_project/source_02.jpg)
-- Target： ![](term_project/target_02.jpg)
+- Source： ![](source_02.jpg)
+- Target： ![](target_02.jpg)
 - Results：
-    - 15% Transfer： ![](term_project/output/output_02_perc_15.jpg)
-    - 40% Transfer： ![](term_project/output/output_02_perc_40.jpg)
-    - 100% Transfer： ![](term_project/output/output_02_perc_100.jpg)
+    - 15% Transfer： ![](output/output_02_perc_15.jpg)
+    - 40% Transfer： ![](output/output_02_perc_40.jpg)
+    - 100% Transfer： ![](output/output_02_perc_100.jpg)
 
 
 ## Things that confuse me (& how I deal with)
